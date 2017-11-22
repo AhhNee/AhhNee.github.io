@@ -1,0 +1,36 @@
+url: ""
+baseurl: ""
+
+# Site settings
+title: Arne Schütze
+email: mail@arneschuetze.de
+description: Get to know Arne Schütze, a Berlin based User Experience Designer
+
+
+# Team names, titles and social links
+people:
+- name: Arne Schütze
+  pic: 1
+  position: User Experience Designer
+  social:
+    - title: linkedin
+      url: https://de.linkedin.com/in/arneschuetze
+    - title: xing
+      url: https://www.xing.com/profile/Arne_Schuetze
+    - title: envelope
+      url: mailto:mail@arneschuetze.de
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: https://de.linkedin.com/in/arneschuetze
+  - title: xing
+    url: https://www.xing.com/profile/Arne_Schuetze
+
+# Postal address (add as many lines as necessary)
+address:
+  - line:
+
+# Build settings
+markdown: kramdown
+permalink: pretty
