@@ -284,16 +284,15 @@ header {
     text-align: center;
     color: #fff;
     background-color: #6B7A8F;
-    //*
     background-attachment: scroll;
-	background-image: url('/agency-jekyll-theme//img/header-bg.jpg');
+	//*background-image: url('/arneschuetze/img/header-bg.jpg');*//
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    *//
+    
 }
 
 header .intro-text {
@@ -689,7 +688,7 @@ aside.clients img {
 
 section#contact {
     background-color: #6B7A8F;
-    /*background-image: url('/agency-jekyll-theme//img/map-image.png');*/
+    /*background-image: url('/arneschuetze/img/map-image.png');*/
     background-position: center;
     background-repeat: no-repeat;
 }
