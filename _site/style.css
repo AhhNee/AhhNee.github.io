@@ -285,7 +285,7 @@ header {
     color: #fff;
     background-color: #6B7A8F;
     background-attachment: scroll;
-	//*background-image: url('/arneschuetze/img/header-bg.jpg');*//
+	//*background-image: url('/img/header-bg.jpg');*//
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -688,7 +688,7 @@ aside.clients img {
 
 section#contact {
     background-color: #6B7A8F;
-    /*background-image: url('/arneschuetze/img/map-image.png');*/
+    /*background-image: url('/img/map-image.png');*/
     background-position: center;
     background-repeat: no-repeat;
 }
